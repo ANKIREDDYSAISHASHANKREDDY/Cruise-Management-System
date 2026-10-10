@@ -1,0 +1,10 @@
+{
+  "name": "harborline-cruise-prototype",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Adaptive cruise booking and operations system",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  }
+}
